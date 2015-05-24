@@ -1,0 +1,7 @@
+Pregled na recepti so filtri
+
+-dve polinja za filtriranje
+ednoto za filtriranje spored kategorijata(pojadok, gladno 
+jadenje, vecera, desert)
+drugoto spored toa sto se ima vo samoto jadenje(meso, zelencuk,
+zacini...)

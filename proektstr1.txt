@@ -1,0 +1,10 @@
+Pregled na recepti so filtri
+
+-pocetna strana
+prikaz na odredeni jadenja(najvisok rejting, najomilenite od 
+sekoj tip na jadenja(pojadok, glavno jadenje, desert...))
+
+-samo administratorot ke moze da dodava recepti 
+
+-slika, recept, eventualno video so nacinot na prigotvuvanje,
+rejting za sekoj od receptite
