@@ -1,0 +1,8 @@
+Pregled na recepti so filtri
+
+-moznost za dodavanje na recepti od strana na korisnicite na 
+web aplikacijata
+
+-moznost za dodavanje na drug tip na jadenje/pienje
+pr. 	recepti za torti
+	recepti za prigotvuvanje na kokteli
